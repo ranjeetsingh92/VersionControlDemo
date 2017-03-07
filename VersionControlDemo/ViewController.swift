@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("the name is ranjit Singh a")
+        
+        self.view.backgroundColor = UIColor.green
     }
 
     override func didReceiveMemoryWarning() {
